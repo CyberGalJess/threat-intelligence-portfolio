@@ -39,6 +39,7 @@ Recent Cybersecurity graduate with a strong interest in threat intelligence, mal
 * Cyber Threat Research
 
 ## Contact
+Video Walkthrough: https://youtu.be/AgnfcYWKNzc
 
 LinkedIn: www.linkedin.com/in/jessicasansaricq
 
