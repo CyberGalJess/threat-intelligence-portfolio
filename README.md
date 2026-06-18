@@ -105,3 +105,5 @@ Video Walkthrough: https://youtu.be/AgnfcYWKNzc
 LinkedIn: www.linkedin.com/in/jessicasansaricq
 
 GitHub: CybergalJess
+## Copyright / Usage Notice
+© 2026 Jessica Sansaricq. This project is provided for educational and portfolio purposes. Please do not copy, redistribute, or present this work as your own.
